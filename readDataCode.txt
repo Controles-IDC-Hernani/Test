@@ -1,0 +1,5 @@
+import pandas as pd
+
+linkGit=https://github.com/Controles-IDC-Hernani/Test/raw/main/raeePeru.csv
+
+dataRaee=pd.read_csv(linkGit)
